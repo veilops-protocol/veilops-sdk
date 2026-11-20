@@ -1,6 +1,6 @@
 {
   "name": "@veilops/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "Apache-2.0",
   "type": "module",
   "main": "src/index.ts",
@@ -8,9 +8,9 @@
   "exports": { ".": "./src/index.ts" },
   "sideEffects": false,
   "dependencies": {
-    "@veilops/shared": "0.1.0",
-    "@veilops/encryption": "0.1.0",
-    "@veilops/policy-engine": "0.1.0",
-    "@veilops/proof-engine": "0.1.0"
+    "@veilops/shared": "0.1.1",
+    "@veilops/encryption": "0.1.1",
+    "@veilops/policy-engine": "0.1.1",
+    "@veilops/proof-engine": "0.1.1"
   }
 }
